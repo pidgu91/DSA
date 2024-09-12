@@ -15,3 +15,7 @@ print(check_matching_parentheses("()"))
 print(check_matching_parentheses("())"))
 print(check_matching_parentheses("(ok)"))
 print(check_matching_parentheses(")linkedin()"))
+
+# stacks are great if you need to keep track of state
+# if you need to index, don't use stacks
+# searching is bad too
